@@ -379,7 +379,7 @@ width: 280px;
     z-index: 9;
     top: 10%;
     left: 0;
-    background-image: linear-gradient(to right bottom, rgb(255, 255, 255),rgb(0, 0, 0));
+    background-image:rgb(0, 0, 0));
     padding-top: 20px;
   }
 
