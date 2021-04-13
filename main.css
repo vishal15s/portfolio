@@ -130,8 +130,8 @@ margin-bottom: 0px;
   margin-top: 5px;
   padding-left : 10px;
   padding-right : 10px;
-  padding-top : 20px;
-  padding-bottom : 20px;
+  padding-top : 10px;
+  padding-bottom : 10px;
   font-size: x-large;
   
 }
@@ -186,9 +186,9 @@ li{
   background-color: rgb(44, 44, 44);
   color:gold;
   padding-bottom:5px;
-  margin-left:0px;
-  margin-right:0px;
-  margin-bottom:15px;
+  margin-left:10px;
+  margin-right:10px;
+  margin-bottom:30px;
   margin-top: 0px;
 
 }
@@ -326,7 +326,9 @@ height: 300px;
 width: 280px;    
 }
 
-
+.line{
+  border: 1px solid gold;
+}
 
 
 @media(min-width: 764px){
@@ -377,7 +379,7 @@ width: 280px;
     z-index: 9;
     top: 10%;
     left: 0;
-    background-image: linear-gradient(to right bottom, rgb(255, 255, 255),rgb(0, 0, 0))
+    background-image: linear-gradient(to right bottom, rgb(255, 255, 255),rgb(0, 0, 0));
     padding-top: 20px;
   }
 
