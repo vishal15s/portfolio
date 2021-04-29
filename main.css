@@ -336,8 +336,8 @@ width: 280px;
     font-size:large;
   }
   .image-a{
-    height: 270px;
-    width: 270px;    
+    height: 250px;
+    width: 250px;    
     }
   .left{
     float:left;
@@ -350,11 +350,7 @@ width: 280px;
     background-image: url("BG.png");
   }
   
-  .about{
-    text-align: left;
-    padding-top: 20px;
-    padding-bottom: 10px;
-  }
+
   
   #bevents{
     background-image: linear-gradient(to right bottom, rgb(0, 13, 73), rgb(64, 6, 82));
@@ -386,11 +382,12 @@ width: 280px;
   
   .about{
     background-image: linear-gradient(to right bottom, rgb(0, 85, 81), rgb(0, 77, 107));
+    text-align: left;
     margin-top: 10px;
-    padding-left : 70px;
-    padding-right : 70px;
-    padding-top : 15px;
-    padding-bottom : 40px;
+    padding-left : 80px;
+    padding-right : 80px;
+    padding-top : 20px;
+    padding-bottom : 50px;
     
 }
      .image_cc{
