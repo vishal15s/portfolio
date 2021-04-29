@@ -117,8 +117,8 @@ margin-bottom: 0px;
 .about{
     background-image: linear-gradient(to right bottom, rgb(0, 85, 81), rgb(0, 77, 107));
     margin-top: 10px;
-    padding-left : 50px;
-    padding-right : 30px;
+    padding-left : 40px;
+    padding-right : 25px;
     padding-top : 20px;
     padding-bottom :15px;
     text-align:left;
@@ -239,6 +239,10 @@ border-radius: 7px;
 
  }
 
+ .r_list{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
  #social{
    vertical-align:middle;
    text-align: center;
@@ -336,11 +340,19 @@ width: 280px;
     font-size:large;
   }
   .image-a{
-    height: 250px;
-    width: 250px;    
+    height: 300px;
+    width: 300px;    
     }
   .left{
     float:left;
+  }
+  .right{
+    float:right;
+  }
+
+  .r_list{
+    margin-top: 10px;
+    margin-bottom: 10px;
   }
  
   .font{font-size:small}
@@ -387,7 +399,7 @@ width: 280px;
     padding-left : 80px;
     padding-right : 90px;
     padding-top : 20px;
-    padding-bottom : 50px;
+    padding-bottom : 20px;
     
 }
      .image_cc{
