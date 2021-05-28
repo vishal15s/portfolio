@@ -192,6 +192,17 @@ li{
   margin-top: 0px;
 
 }
+
+.project-headingtwo{
+  background-color: rgb(63, 0, 114);
+  color:gold;
+  padding-bottom:5px;
+  margin-left:10px;
+  margin-right:10px;
+  margin-bottom:30px;
+  margin-top: 0px;
+
+}
   #events{
     background-color: rgb(10, 10, 10);
     margin-top: 5px;
@@ -261,7 +272,7 @@ border-radius: 7px;
  
   background-color: rgb(24, 20, 20);
   transition: border-color 2s;
-  transition-timing-function: cubic-bezier(2, 0, 0, 1);
+  transition-timing-function: cubic-bezier(2, 1, 0, 1);
 }
 
 .card_h{
@@ -362,7 +373,16 @@ width: 280px;
     background-image: url("BG.png");
   }
   
-
+  .project-headingtwo{
+    background-color: rgb(63, 0, 114);
+    color:gold;
+    padding-bottom:5px;
+    margin-left:200px;
+    margin-right:200px;
+    margin-bottom:20px;
+    margin-top: 0px;
+  
+  }
   
   #bevents{
     background-image: linear-gradient(to right bottom, rgb(0, 13, 73), rgb(64, 6, 82));
