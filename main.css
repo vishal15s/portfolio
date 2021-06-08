@@ -136,6 +136,11 @@ li {
   padding-bottom: 10px;
   padding-top: 10px;
 }
+.container{
+  margin-left:10px;
+  margin-right:5px;
+}
+
 #bevents {
   background-image: linear-gradient(
     to right bottom,
@@ -312,6 +317,10 @@ h4 {
     margin-top: 0px;
   }
 
+  .container{
+    margin-left:0px;
+  }
+
   #bevents {
     background-image: linear-gradient(
       to right bottom,
@@ -335,7 +344,7 @@ h4 {
     border-radius: 10px;
   }
   .sidenav {
-    height: 25%;
+    height:180px;
     width: 42px;
     position: fixed;
     z-index: 9;
