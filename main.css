@@ -3,7 +3,7 @@
   src: url(Rubik-VariableFont_wght.ttf);
 }
 
-.blink {
+/* .blink {
   animation: blinker 1s linear infinite;
 }
 
@@ -11,8 +11,22 @@
   50% {
     opacity: 0;
   }
+} */
+
+.color_c{
+  animation-name: color_change;
+  animation-duration: 2s ;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;  
 }
 
+@keyframes color_change {
+  0%   {color: rgb(121, 20, 223);}
+  25%  {color: gold;}
+  50%  {color: rgb(219, 88, 0);}
+  100% {color: rgb(2, 234, 238);}
+  
+}
 .sidenav {
   height: 160px;
   width: 35px;
